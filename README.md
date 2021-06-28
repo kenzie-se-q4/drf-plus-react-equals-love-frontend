@@ -35,6 +35,7 @@ React Tools
 
 *   [https://github.com/facebook/create-react-app](https://github.com/facebook/create-react-app)
 *   [https://raygun.com/blog/react-debugging-guide/](https://raygun.com/blog/react-debugging-guide/)
+*   [https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 Extra credit (3 points):
 
